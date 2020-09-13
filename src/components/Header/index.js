@@ -37,7 +37,7 @@ function Header() {
           </MenuButton>
 
           <NavMenu>
-            <span>Why Slack?</span>
+            <span>Why Zore?</span>
             <span>Solutions</span>
             <span>Resources</span>
             <span>Pricing</span>
@@ -45,7 +45,7 @@ function Header() {
           <ButtonOne>Sign in</ButtonOne>
           <span style={style}>|</span>
           <ButtonTwo>GET STARTED</ButtonTwo>
-          <ButtonThree>Download Slack App</ButtonThree>
+          <ButtonThree>Download Zore App</ButtonThree>
         </NavRight>
       </Nav>
     </Container>
