@@ -8,8 +8,8 @@ Um clone da homepage do site Slack
 ### 300px
 ![](./home-300.png)
 ### 600px
-![](./home-900.png)
-### 1200px
+![](./home-600.png)
+### 1100px
 ![](./home-1100.png)
 
 

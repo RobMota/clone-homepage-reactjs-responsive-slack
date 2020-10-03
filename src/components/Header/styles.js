@@ -7,7 +7,7 @@ export const Container = styled.div`
   display: flex;
   margin: 0 auto;
   height: 70px;
-
+  padding: 0 10px;
   @media only screen and (max-width: 1080px) {
     position: sticky;
     top: 0;
