@@ -25,19 +25,19 @@ function Header() {
   return (
     <Container>
       <Nav>
-        <Logo>zore</Logo>
+        <Logo>At</Logo>
         <MenuButton onClick={() => setVisible(!visible)}>
           <MdDehaze />
         </MenuButton>
 
         <NavRight className={` ${visible ? " responsive" : " "}`}>
-          <Logo second>zore</Logo>
+          <Logo second>At</Logo>
           <MenuButton onClick={() => setVisible(!visible)}>
             <MdClear style={{ color: "#FFF" }} />
           </MenuButton>
 
           <NavMenu>
-            <span>Why Zore?</span>
+            <span>Why Astatine?</span>
             <span>Solutions</span>
             <span>Resources</span>
             <span>Pricing</span>
@@ -45,7 +45,7 @@ function Header() {
           <ButtonOne>Sign in</ButtonOne>
           <span style={style}>|</span>
           <ButtonTwo>GET STARTED</ButtonTwo>
-          <ButtonThree>Download Zore App</ButtonThree>
+          <ButtonThree>Download Astatine App</ButtonThree>
         </NavRight>
       </Nav>
     </Container>

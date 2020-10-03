@@ -16,7 +16,7 @@ function App() {
     <>
       <Header />
       <Main />
-      <h1 style={myStyle}>Continua...</h1>
+      <h1 style={myStyle}>Continue...</h1>
       <GlobalStyle />
     </>
   );

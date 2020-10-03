@@ -27,13 +27,12 @@ export const Nav = styled.div`
 export const Logo = styled.div`
   display: flex;
   display: ${(props) => (props.second ? "none" : "")};
-  font: 2.5em "Roboto", sans-serif;
-  font-weight: 600;
+  font: 2em "Roboto", sans-serif;
+  font-weight: 500;
   padding-right: 25px;
   height: 70px;
-  margin-bottom: 6px;
   color: ${(props) => (props.second ? "#FFF" : "")};
-  line-height: 1.57;
+  line-height: 2;
   padding: 0 20px;
 
   @media only screen and (max-width: 1080px) {
