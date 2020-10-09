@@ -38,9 +38,9 @@ function Header() {
 
           <NavMenu>
             <span>Why Astatine?</span>
-            <span>Solutions</span>
-            <span>Resources</span>
-            <span>Pricing</span>
+            <span>Item 2</span>
+            <span>Item 3</span>
+            <span>Item 4</span>
           </NavMenu>
           <ButtonOne>Sign in</ButtonOne>
           <span style={style}>|</span>

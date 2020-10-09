@@ -53,9 +53,11 @@ export const TextMain = styled.div`
 
   span {
     font-size: 1.2rem;
-    font-weight: 500;
-    line-height: 1.5rem;
+    font-weight: 400;
+    line-height: 1.7rem;
     height: 120px;
+    color: rgb(100, 100, 100);
+    
   }
 
   @media only screen and (max-width: 854px) {
@@ -105,10 +107,14 @@ export const Form = styled.div`
 cursor: pointer;
   }
 
-  a {
+  span{
+    color: rgb(100, 100, 100);
+
+       a {
     padding: 0 10px;
     font-size: 1em;
   }
+}
 
   @media only screen and (max-width: 415px) {
     display: flex;

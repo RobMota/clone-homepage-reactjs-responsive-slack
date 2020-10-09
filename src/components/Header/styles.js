@@ -92,6 +92,7 @@ export const NavMenu = styled.div`
   align-self: center;
 
   span {
+    color: rgb(100, 100, 100);
     padding: 0 25px;
   }
 
@@ -115,9 +116,10 @@ export const NavMenu = styled.div`
 
 export const ButtonOne = styled.button`
   margin-left: auto;
+  margin-right: 15px;
   font-size: 1em;
   font-weight: 400;
-  color: rgba(0, 0, 0, 0.8);
+  color: rgb(100, 100, 100);
   border: 0;
   background: transparent;
   align-self: center;

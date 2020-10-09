@@ -12,10 +12,7 @@ export default function Main() {
         <TextMain>
           <p>Where Work Happens</p>
           <span>
-            When your team needs to kick off a project, hire a new employee,
-            deploy some code, review o sales contract, finalize next year's
-            budget, measure an A/B test, plan your next office opening, and
-            more, Astatine has you covered.
+          Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
           </span>
         </TextMain>
 
