@@ -5,14 +5,11 @@ Um clone da homepage do site Slack
 
 - Aplicação frontend em React e Styled Components usada como aprendizado no uso de responsividade.
 
-### 300px
-![](./home-300.png)
-### 600px
-![](./home-600.png)
+### Menu 300px - 300px - 600px
+![](./mobile.png)
+
 ### 1100px
 ![](./home-1100.png)
-
-
 
 #### Principais Materiais:
 

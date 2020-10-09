@@ -7,7 +7,6 @@
 yarn.lock
 package-lock.json
 backup-styles.txt
-slack-full.png
 
 # testing
 /coverage

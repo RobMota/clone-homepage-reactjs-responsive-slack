@@ -102,6 +102,7 @@ export const Form = styled.div`
     color: #fff;
     font-size: 0.9em;
     padding: 21px 25px;
+cursor: pointer;
   }
 
   a {
